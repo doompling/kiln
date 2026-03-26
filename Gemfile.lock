@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    kiln (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  arm64-darwin-23
+
+DEPENDENCIES
+  kiln!
+
+BUNDLED WITH
+   2.4.20
