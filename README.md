@@ -78,6 +78,8 @@ Kiln.fire(piece)
 
 Save as a Ruby file and run it from your project directory.
 
+<img width="765" height="110" alt="image" src="https://github.com/user-attachments/assets/f718a221-eebb-4af5-a80f-7341e9979b5c" />
+
 ## How It Works
 
 `Kiln.fire` checks the diff scope for changes. If there's nothing to review, it exits. Otherwise it runs each pass in order.
